@@ -1,0 +1,4985 @@
+{
+  "schemaVersion": 2,
+  "days": [
+    {
+      "date": "2025-12-06",
+      "durationMin": 88,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 2,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 5,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 6,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 8,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 10,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 12,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 13,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 14,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 18,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 20,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 21,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 22,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 24,
+          "attempts": 1,
+          "correct": 1
+        }
+      ],
+      "type": "mock",
+      "doneCount": 38,
+      "correctCount": 36.0,
+      "mockScore": 19,
+      "mockMax": 32
+    },
+    {
+      "date": "2025-12-07",
+      "durationMin": 27,
+      "taskSummary": [
+        {
+          "task": 4,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 5,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 7,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 11,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 12,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 16,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 22,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 23,
+          "attempts": 1,
+          "correct": 0
+        }
+      ],
+      "type": "training",
+      "doneCount": 18,
+      "correctCount": 16.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2025-12-08",
+      "durationMin": 16,
+      "taskSummary": [
+        {
+          "task": 2,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 6,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 9,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 10,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 11,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 12,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 21,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 23,
+          "attempts": 1,
+          "correct": 0
+        }
+      ],
+      "type": "training",
+      "doneCount": 14,
+      "correctCount": 11.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2025-12-09",
+      "durationMin": 50,
+      "taskSummary": [
+        {
+          "task": 2,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 3,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 5,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 8,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 10,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 18,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 20,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 23,
+          "attempts": 1,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 14,
+      "correctCount": 13.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2025-12-10",
+      "durationMin": 19,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 4,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 8,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 10,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 16,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 17,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 20,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 22,
+          "attempts": 1,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 17,
+      "correctCount": 16.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2025-12-11",
+      "durationMin": 26,
+      "taskSummary": [
+        {
+          "task": 2,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 5,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 6,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 8,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 12,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 15,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 21,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 23,
+          "attempts": 2,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 16,
+      "correctCount": 15.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2025-12-12",
+      "durationMin": 55,
+      "taskSummary": [
+        {
+          "task": 2,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 6,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 8,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 9,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 14,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 19,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 22,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 23,
+          "attempts": 1,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 14,
+      "correctCount": 13.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2025-12-13",
+      "durationMin": 67,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 3,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 4,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 6,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 8,
+          "attempts": 4,
+          "correct": 3
+        },
+        {
+          "task": 10,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 14,
+          "attempts": 4,
+          "correct": 3
+        },
+        {
+          "task": 15,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 16,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 17,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 21,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 22,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 23,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 25,
+          "attempts": 1,
+          "correct": 0
+        }
+      ],
+      "type": "mock",
+      "doneCount": 35,
+      "correctCount": 30.0,
+      "mockScore": 19,
+      "mockMax": 32
+    },
+    {
+      "date": "2025-12-14",
+      "durationMin": 52,
+      "taskSummary": [
+        {
+          "task": 3,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 4,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 6,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 7,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 9,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 17,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 23,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 24,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "training",
+      "doneCount": 17,
+      "correctCount": 15.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2025-12-15",
+      "durationMin": 51,
+      "taskSummary": [
+        {
+          "task": 2,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 4,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 7,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 11,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 16,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 18,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 21,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 25,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "training",
+      "doneCount": 11,
+      "correctCount": 9.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2025-12-16",
+      "durationMin": 52,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 2,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 7,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 9,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 14,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 17,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 20,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 22,
+          "attempts": 1,
+          "correct": 0
+        }
+      ],
+      "type": "training",
+      "doneCount": 15,
+      "correctCount": 11.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2025-12-17",
+      "durationMin": 44,
+      "taskSummary": [
+        {
+          "task": 2,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 4,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 6,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 7,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 11,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 13,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 24,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 25,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "training",
+      "doneCount": 14,
+      "correctCount": 10.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2025-12-18",
+      "durationMin": 36,
+      "taskSummary": [
+        {
+          "task": 4,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 5,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 10,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 11,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 13,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 16,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 21,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 23,
+          "attempts": 2,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 17,
+      "correctCount": 14.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2025-12-19",
+      "durationMin": 39,
+      "taskSummary": [
+        {
+          "task": 6,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 8,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 11,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 13,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 14,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 18,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 20,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 23,
+          "attempts": 2,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 18,
+      "correctCount": 14.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2025-12-20",
+      "durationMin": 88,
+      "taskSummary": [
+        {
+          "task": 2,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 3,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 6,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 7,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 9,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 11,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 12,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 13,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 14,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 19,
+          "attempts": 4,
+          "correct": 3
+        },
+        {
+          "task": 20,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 21,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 22,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 24,
+          "attempts": 1,
+          "correct": 0
+        }
+      ],
+      "type": "mock",
+      "doneCount": 38,
+      "correctCount": 33.0,
+      "mockScore": 24,
+      "mockMax": 32
+    },
+    {
+      "date": "2025-12-21",
+      "durationMin": 29,
+      "taskSummary": [
+        {
+          "task": 8,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 9,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 13,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 16,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 18,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 19,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 20,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 24,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "training",
+      "doneCount": 12,
+      "correctCount": 11.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2025-12-22",
+      "durationMin": 47,
+      "taskSummary": [
+        {
+          "task": 3,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 4,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 7,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 11,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 14,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 15,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 20,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 22,
+          "attempts": 1,
+          "correct": 0
+        }
+      ],
+      "type": "training",
+      "doneCount": 12,
+      "correctCount": 11.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2025-12-23",
+      "durationMin": 28,
+      "taskSummary": [
+        {
+          "task": 2,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 3,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 8,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 12,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 15,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 17,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 23,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 25,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "training",
+      "doneCount": 17,
+      "correctCount": 16.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2025-12-24",
+      "durationMin": 18,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 3,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 11,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 12,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 13,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 15,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 21,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 22,
+          "attempts": 1,
+          "correct": 0
+        }
+      ],
+      "type": "training",
+      "doneCount": 16,
+      "correctCount": 12.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2025-12-25",
+      "durationMin": 36,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 7,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 12,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 13,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 14,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 15,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 20,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 24,
+          "attempts": 1,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 12,
+      "correctCount": 12.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2025-12-26",
+      "durationMin": 20,
+      "taskSummary": [
+        {
+          "task": 2,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 4,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 6,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 9,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 15,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 17,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 20,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 24,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "training",
+      "doneCount": 15,
+      "correctCount": 13.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2025-12-27",
+      "durationMin": 65,
+      "taskSummary": [
+        {
+          "task": 2,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 4,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 7,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 9,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 11,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 12,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 16,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 17,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 18,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 19,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 20,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 21,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 22,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 23,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "mock",
+      "doneCount": 33,
+      "correctCount": 29.0,
+      "mockScore": 30,
+      "mockMax": 32
+    },
+    {
+      "date": "2025-12-28",
+      "durationMin": 20,
+      "taskSummary": [
+        {
+          "task": 2,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 8,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 12,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 13,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 15,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 17,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 22,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 25,
+          "attempts": 1,
+          "correct": 0
+        }
+      ],
+      "type": "training",
+      "doneCount": 12,
+      "correctCount": 10.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2025-12-29",
+      "durationMin": 55,
+      "taskSummary": [
+        {
+          "task": 3,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 4,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 5,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 8,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 10,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 19,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 21,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 23,
+          "attempts": 1,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 13,
+      "correctCount": 12.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2025-12-30",
+      "durationMin": 48,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 2,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 6,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 8,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 14,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 16,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 21,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 23,
+          "attempts": 2,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 18,
+      "correctCount": 14.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2025-12-31",
+      "durationMin": 15,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 4,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 10,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 11,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 14,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 19,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 20,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 24,
+          "attempts": 1,
+          "correct": 0
+        }
+      ],
+      "type": "training",
+      "doneCount": 17,
+      "correctCount": 14.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-01",
+      "durationMin": 29,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 5,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 8,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 10,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 18,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 19,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 21,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 25,
+          "attempts": 1,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 15,
+      "correctCount": 14.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-02",
+      "durationMin": 53,
+      "taskSummary": [
+        {
+          "task": 4,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 6,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 7,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 14,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 15,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 18,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 22,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 23,
+          "attempts": 1,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 16,
+      "correctCount": 14.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-03",
+      "durationMin": 88,
+      "taskSummary": [
+        {
+          "task": 3,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 5,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 7,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 10,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 11,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 13,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 15,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 16,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 17,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 18,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 20,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 21,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 22,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 25,
+          "attempts": 3,
+          "correct": 2
+        }
+      ],
+      "type": "mock",
+      "doneCount": 38,
+      "correctCount": 34.0,
+      "mockScore": 25,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-04",
+      "durationMin": 51,
+      "taskSummary": [
+        {
+          "task": 2,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 3,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 5,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 9,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 11,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 13,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 21,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 22,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "training",
+      "doneCount": 19,
+      "correctCount": 16.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-05",
+      "durationMin": 35,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 4,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 11,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 16,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 18,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 19,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 20,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 23,
+          "attempts": 1,
+          "correct": 0
+        }
+      ],
+      "type": "training",
+      "doneCount": 12,
+      "correctCount": 11.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-06",
+      "durationMin": 45,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 4,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 5,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 6,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 8,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 16,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 23,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 24,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "training",
+      "doneCount": 12,
+      "correctCount": 10.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-07",
+      "durationMin": 53,
+      "taskSummary": [
+        {
+          "task": 4,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 6,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 8,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 9,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 18,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 19,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 22,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 23,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "training",
+      "doneCount": 15,
+      "correctCount": 12.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-08",
+      "durationMin": 35,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 3,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 5,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 6,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 11,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 12,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 21,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 22,
+          "attempts": 1,
+          "correct": 0
+        }
+      ],
+      "type": "training",
+      "doneCount": 15,
+      "correctCount": 13.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-09",
+      "durationMin": 24,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 2,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 11,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 13,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 15,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 18,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 24,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 25,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "training",
+      "doneCount": 19,
+      "correctCount": 17.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-10",
+      "durationMin": 72,
+      "taskSummary": [
+        {
+          "task": 3,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 4,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 5,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 6,
+          "attempts": 4,
+          "correct": 3
+        },
+        {
+          "task": 8,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 9,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 10,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 13,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 16,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 17,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 22,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 23,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 24,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 25,
+          "attempts": 3,
+          "correct": 3
+        }
+      ],
+      "type": "mock",
+      "doneCount": 37,
+      "correctCount": 33.0,
+      "mockScore": 21,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-11",
+      "durationMin": 39,
+      "taskSummary": [
+        {
+          "task": 4,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 7,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 9,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 14,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 15,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 16,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 23,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 24,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "training",
+      "doneCount": 11,
+      "correctCount": 11.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-12",
+      "durationMin": 20,
+      "taskSummary": [
+        {
+          "task": 2,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 3,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 6,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 8,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 15,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 18,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 20,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 25,
+          "attempts": 1,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 15,
+      "correctCount": 14.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-13",
+      "durationMin": 15,
+      "taskSummary": [
+        {
+          "task": 2,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 4,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 5,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 7,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 18,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 19,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 21,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 22,
+          "attempts": 1,
+          "correct": 0
+        }
+      ],
+      "type": "training",
+      "doneCount": 14,
+      "correctCount": 12.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-14",
+      "durationMin": 53,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 3,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 10,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 11,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 16,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 18,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 24,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 25,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "training",
+      "doneCount": 16,
+      "correctCount": 16.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-15",
+      "durationMin": 23,
+      "taskSummary": [
+        {
+          "task": 2,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 6,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 8,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 9,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 10,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 16,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 24,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 25,
+          "attempts": 1,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 11,
+      "correctCount": 10.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-16",
+      "durationMin": 22,
+      "taskSummary": [
+        {
+          "task": 7,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 8,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 15,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 17,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 18,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 19,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 20,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 22,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "training",
+      "doneCount": 17,
+      "correctCount": 14.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-17",
+      "durationMin": 66,
+      "taskSummary": [
+        {
+          "task": 8,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 9,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 10,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 11,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 12,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 13,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 14,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 15,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 18,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 19,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 20,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 23,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 24,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 25,
+          "attempts": 3,
+          "correct": 2
+        }
+      ],
+      "type": "mock",
+      "doneCount": 38,
+      "correctCount": 35.0,
+      "mockScore": 26,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-18",
+      "durationMin": 46,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 7,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 8,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 15,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 17,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 18,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 21,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 23,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "training",
+      "doneCount": 14,
+      "correctCount": 13.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-19",
+      "durationMin": 15,
+      "taskSummary": [
+        {
+          "task": 2,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 3,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 4,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 5,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 8,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 11,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 20,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 24,
+          "attempts": 1,
+          "correct": 0
+        }
+      ],
+      "type": "training",
+      "doneCount": 18,
+      "correctCount": 16.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-20",
+      "durationMin": 48,
+      "taskSummary": [
+        {
+          "task": 2,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 9,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 13,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 15,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 17,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 18,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 21,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 22,
+          "attempts": 2,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 15,
+      "correctCount": 12.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-21",
+      "durationMin": 53,
+      "taskSummary": [
+        {
+          "task": 2,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 4,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 6,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 11,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 13,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 14,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 22,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 25,
+          "attempts": 1,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 17,
+      "correctCount": 17.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-22",
+      "durationMin": 37,
+      "taskSummary": [
+        {
+          "task": 2,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 5,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 8,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 9,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 10,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 16,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 22,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 25,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "training",
+      "doneCount": 14,
+      "correctCount": 12.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-23",
+      "durationMin": 35,
+      "taskSummary": [
+        {
+          "task": 9,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 10,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 11,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 13,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 14,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 17,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 20,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 22,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "training",
+      "doneCount": 17,
+      "correctCount": 16.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-24",
+      "durationMin": 73,
+      "taskSummary": [
+        {
+          "task": 2,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 5,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 7,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 9,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 10,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 11,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 12,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 13,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 15,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 17,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 20,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 21,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 23,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 24,
+          "attempts": 3,
+          "correct": 2
+        }
+      ],
+      "type": "mock",
+      "doneCount": 38,
+      "correctCount": 34.0,
+      "mockScore": 24,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-25",
+      "durationMin": 24,
+      "taskSummary": [
+        {
+          "task": 4,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 8,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 13,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 16,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 17,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 18,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 23,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 25,
+          "attempts": 1,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 16,
+      "correctCount": 16.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-26",
+      "durationMin": 31,
+      "taskSummary": [
+        {
+          "task": 3,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 9,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 12,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 15,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 16,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 18,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 24,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 25,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "training",
+      "doneCount": 18,
+      "correctCount": 17.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-27",
+      "durationMin": 54,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 3,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 9,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 11,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 14,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 18,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 20,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 24,
+          "attempts": 2,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 16,
+      "correctCount": 13.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-28",
+      "durationMin": 45,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 3,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 7,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 11,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 15,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 19,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 21,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 24,
+          "attempts": 1,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 14,
+      "correctCount": 12.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-29",
+      "durationMin": 47,
+      "taskSummary": [
+        {
+          "task": 2,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 5,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 8,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 15,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 16,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 17,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 20,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 22,
+          "attempts": 1,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 16,
+      "correctCount": 14.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-30",
+      "durationMin": 50,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 7,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 10,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 15,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 16,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 17,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 20,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 23,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "training",
+      "doneCount": 15,
+      "correctCount": 15.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-01-31",
+      "durationMin": 51,
+      "taskSummary": [
+        {
+          "task": 6,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 7,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 8,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 9,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 10,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 12,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 13,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 14,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 16,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 17,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 20,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 21,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 23,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 24,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "mock",
+      "doneCount": 38,
+      "correctCount": 35.0,
+      "mockScore": 21,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-02-01",
+      "durationMin": 22,
+      "taskSummary": [
+        {
+          "task": 2,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 8,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 9,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 12,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 14,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 19,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 20,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 23,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "training",
+      "doneCount": 15,
+      "correctCount": 12.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-02-02",
+      "durationMin": 44,
+      "taskSummary": [
+        {
+          "task": 4,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 8,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 9,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 14,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 16,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 18,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 22,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 24,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "training",
+      "doneCount": 16,
+      "correctCount": 14.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-02-03",
+      "durationMin": 34,
+      "taskSummary": [
+        {
+          "task": 4,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 6,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 7,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 14,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 15,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 18,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 23,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 25,
+          "attempts": 2,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 16,
+      "correctCount": 15.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-02-04",
+      "durationMin": 30,
+      "taskSummary": [
+        {
+          "task": 4,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 8,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 12,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 15,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 16,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 18,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 21,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 23,
+          "attempts": 1,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 14,
+      "correctCount": 12.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-02-05",
+      "durationMin": 36,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 2,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 9,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 10,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 11,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 18,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 21,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 22,
+          "attempts": 2,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 13,
+      "correctCount": 10.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-02-06",
+      "durationMin": 31,
+      "taskSummary": [
+        {
+          "task": 3,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 7,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 8,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 14,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 16,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 19,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 20,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 25,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "training",
+      "doneCount": 19,
+      "correctCount": 19.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-02-07",
+      "durationMin": 74,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 2,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 5,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 8,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 9,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 11,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 12,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 13,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 15,
+          "attempts": 4,
+          "correct": 3
+        },
+        {
+          "task": 19,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 21,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 22,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 23,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 24,
+          "attempts": 1,
+          "correct": 1
+        }
+      ],
+      "type": "mock",
+      "doneCount": 37,
+      "correctCount": 35.0,
+      "mockScore": 22,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-02-08",
+      "durationMin": 25,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 4,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 6,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 11,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 13,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 15,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 23,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 25,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "training",
+      "doneCount": 16,
+      "correctCount": 14.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-02-09",
+      "durationMin": 34,
+      "taskSummary": [
+        {
+          "task": 2,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 4,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 5,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 6,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 7,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 13,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 20,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 22,
+          "attempts": 1,
+          "correct": 0
+        }
+      ],
+      "type": "training",
+      "doneCount": 13,
+      "correctCount": 10.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-02-10",
+      "durationMin": 39,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 2,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 8,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 10,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 15,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 17,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 20,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 25,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "training",
+      "doneCount": 15,
+      "correctCount": 12.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-02-11",
+      "durationMin": 46,
+      "taskSummary": [
+        {
+          "task": 3,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 4,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 6,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 14,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 17,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 19,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 23,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 24,
+          "attempts": 2,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 15,
+      "correctCount": 12.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-02-12",
+      "durationMin": 21,
+      "taskSummary": [
+        {
+          "task": 2,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 3,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 4,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 5,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 14,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 17,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 21,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 23,
+          "attempts": 2,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 18,
+      "correctCount": 17.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-02-13",
+      "durationMin": 23,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 5,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 8,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 9,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 11,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 16,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 22,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 24,
+          "attempts": 1,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 13,
+      "correctCount": 13.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-02-14",
+      "durationMin": 70,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 2,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 6,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 8,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 9,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 10,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 14,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 15,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 16,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 19,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 21,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 23,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 24,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 25,
+          "attempts": 3,
+          "correct": 2
+        }
+      ],
+      "type": "mock",
+      "doneCount": 37,
+      "correctCount": 32.0,
+      "mockScore": 27,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-02-15",
+      "durationMin": 24,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 5,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 7,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 12,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 14,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 15,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 21,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 22,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "training",
+      "doneCount": 19,
+      "correctCount": 16.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-02-16",
+      "durationMin": 39,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 3,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 4,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 8,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 13,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 14,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 22,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 24,
+          "attempts": 1,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 13,
+      "correctCount": 13.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-02-17",
+      "durationMin": 54,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 3,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 6,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 9,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 10,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 18,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 22,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 25,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "training",
+      "doneCount": 13,
+      "correctCount": 12.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-02-18",
+      "durationMin": 47,
+      "taskSummary": [
+        {
+          "task": 5,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 10,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 11,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 12,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 14,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 15,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 23,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 25,
+          "attempts": 1,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 19,
+      "correctCount": 17.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-02-19",
+      "durationMin": 43,
+      "taskSummary": [
+        {
+          "task": 3,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 6,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 14,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 15,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 17,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 19,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 22,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 23,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "training",
+      "doneCount": 18,
+      "correctCount": 17.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-02-20",
+      "durationMin": 43,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 4,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 5,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 10,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 12,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 19,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 20,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 22,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "training",
+      "doneCount": 14,
+      "correctCount": 12.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-02-21",
+      "durationMin": 48,
+      "taskSummary": [
+        {
+          "task": 2,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 4,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 5,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 8,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 10,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 12,
+          "attempts": 4,
+          "correct": 3
+        },
+        {
+          "task": 13,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 14,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 16,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 18,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 20,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 21,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 22,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 24,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "mock",
+      "doneCount": 37,
+      "correctCount": 34.0,
+      "mockScore": 20,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-02-22",
+      "durationMin": 39,
+      "taskSummary": [
+        {
+          "task": 4,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 5,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 12,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 13,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 14,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 15,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 21,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 23,
+          "attempts": 1,
+          "correct": 0
+        }
+      ],
+      "type": "training",
+      "doneCount": 16,
+      "correctCount": 13.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-02-23",
+      "durationMin": 30,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 7,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 10,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 14,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 18,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 19,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 22,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 24,
+          "attempts": 1,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 13,
+      "correctCount": 11.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-02-24",
+      "durationMin": 24,
+      "taskSummary": [
+        {
+          "task": 12,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 13,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 14,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 16,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 17,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 18,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 20,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 22,
+          "attempts": 2,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 16,
+      "correctCount": 13.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-02-25",
+      "durationMin": 35,
+      "taskSummary": [
+        {
+          "task": 4,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 6,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 8,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 11,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 17,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 19,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 21,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 24,
+          "attempts": 1,
+          "correct": 0
+        }
+      ],
+      "type": "training",
+      "doneCount": 16,
+      "correctCount": 14.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-02-26",
+      "durationMin": 26,
+      "taskSummary": [
+        {
+          "task": 10,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 11,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 12,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 15,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 16,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 18,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 21,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 25,
+          "attempts": 2,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 15,
+      "correctCount": 13.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-02-27",
+      "durationMin": 25,
+      "taskSummary": [
+        {
+          "task": 4,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 13,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 16,
+          "attempts": 3,
+          "correct": 2
+        },
+        {
+          "task": 17,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 18,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 19,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 22,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 23,
+          "attempts": 1,
+          "correct": 0
+        }
+      ],
+      "type": "training",
+      "doneCount": 14,
+      "correctCount": 10.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-02-28",
+      "durationMin": 56,
+      "taskSummary": [
+        {
+          "task": 3,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 4,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 5,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 7,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 10,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 11,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 14,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 15,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 17,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 19,
+          "attempts": 4,
+          "correct": 4
+        },
+        {
+          "task": 21,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 22,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 23,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 24,
+          "attempts": 3,
+          "correct": 3
+        }
+      ],
+      "type": "mock",
+      "doneCount": 40,
+      "correctCount": 39.0,
+      "mockScore": 28,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-03-01",
+      "durationMin": 44,
+      "taskSummary": [
+        {
+          "task": 5,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 7,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 9,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 13,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 14,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 15,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 20,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 25,
+          "attempts": 1,
+          "correct": 0
+        }
+      ],
+      "type": "training",
+      "doneCount": 15,
+      "correctCount": 14.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-03-02",
+      "durationMin": 49,
+      "taskSummary": [
+        {
+          "task": 5,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 7,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 8,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 9,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 12,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 18,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 20,
+          "attempts": 1,
+          "correct": 0
+        },
+        {
+          "task": 24,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "training",
+      "doneCount": 14,
+      "correctCount": 12.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-03-03",
+      "durationMin": 15,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 3,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 4,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 6,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 13,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 16,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 21,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 23,
+          "attempts": 2,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 20,
+      "correctCount": 18.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-03-04",
+      "durationMin": 15,
+      "taskSummary": [
+        {
+          "task": 8,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 13,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 15,
+          "attempts": 3,
+          "correct": 3
+        },
+        {
+          "task": 16,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 17,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 18,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 20,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 25,
+          "attempts": 2,
+          "correct": 2
+        }
+      ],
+      "type": "training",
+      "doneCount": 14,
+      "correctCount": 14.0,
+      "mockScore": -1,
+      "mockMax": 32
+    },
+    {
+      "date": "2026-03-05",
+      "durationMin": 24,
+      "taskSummary": [
+        {
+          "task": 1,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 3,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 4,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 10,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 12,
+          "attempts": 2,
+          "correct": 2
+        },
+        {
+          "task": 18,
+          "attempts": 1,
+          "correct": 1
+        },
+        {
+          "task": 21,
+          "attempts": 2,
+          "correct": 1
+        },
+        {
+          "task": 25,
+          "attempts": 1,
+          "correct": 1
+        }
+      ],
+      "type": "training",
+      "doneCount": 12,
+      "correctCount": 11.0,
+      "mockScore": -1,
+      "mockMax": 32
+    }
+  ]
+}
